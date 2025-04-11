@@ -1,4 +1,4 @@
-# Hello, I'm umever! 👋
+# Hello, I'm Umesh! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and love to create innovative solutions to challenging problems. Here's a bit about me:
 
