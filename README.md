@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 Here are some of the projects I've worked on:
 
-- gehna.world : Building e-commerce store for buying jewellery using Next js deployed to Vercel. Built with a focus on performance, aesthetics, and user experience, the platform offers a seamless online shopping experience through a clean, responsive interface
+- https://gehna.world : Building e-commerce store for buying jewellery using Next js deployed to Vercel. Built with a focus on performance, aesthetics, and user experience, the platform offers a seamless online shopping experience through a clean, responsive interface
 - Delta Maker: Its a Rust-based app that automates Delta Lake table creation in ADLS from Parquet files ingested via Fivetran HVR. Built with Tokio, deployed on AKS using Docker and KEDA, it replaced a Databricks-based solution and cut costs by $100K per quarter while maintaining performance and scalability.
 - Silver Streaming Application on Azure Synapse Analytics:  Its a PySpark framework on Azure Synapse that streams transactional SCD Type 2 data from Bronze (via Fivetran HVR) to Silver L1 using Spark merge operations. It improved efficiency and scalability while reducing costs by 25%.
 
