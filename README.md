@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🚀 About Me
 
-- 🏫 Current role or education: SDE @Philips
-- 🌱 Currently learning: React Js
+- 🏫 Current role: SDE @Philips
+- 🌱 Currently learning: React Js, Rust, Kubernetes, System Design
 - 💼 Seeking opportunities: Collaboration on Intresting Projects
-- 💬 Ask me about: Programming
+- 💬 Ask me about: Programming or my Projects
 
 ## 💻 Technologies & Tools
 
-- Programming Languages: [List of programming languages you use]
-- Frameworks & Libraries: [List of frameworks and libraries you use]
-- Tools & Platforms: [List of tools and platforms you use]
+- Programming Languages: Python, C++, Rust, PySpark, JS
+- Frameworks & Libraries: ReactJs, NextJs, PySpark, Delt Lake, Tensorflow, Pandas, NumPy
+- Tools & Platforms: Azure Cloud Platform, Data Bricks, Vercel, Firebase, Cloudflare
 
 ## 📈 GitHub Stats
 
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description of project 1
-- [Project 2](link-to-project-2): Brief description of project 2
-- [Project 3](link-to-project-3): Brief description of project 3
+- gehna.world : Building e-commerce store for buying jewellery using Next js deployed to Vercel. Built with a focus on performance, aesthetics, and user experience, the platform offers a seamless online shopping experience through a clean, responsive interface
+- Delta Maker: Its a Rust-based app that automates Delta Lake table creation in ADLS from Parquet files ingested via Fivetran HVR. Built with Tokio, deployed on AKS using Docker and KEDA, it replaced a Databricks-based solution and cut costs by $100K per quarter while maintaining performance and scalability.
+- Silver Streaming Application on Azure Synapse Analytics:  Its a PySpark framework on Azure Synapse that streams transactional SCD Type 2 data from Bronze (via Fivetran HVR) to Silver L1 using Spark merge operations. It improved efficiency and scalability while reducing costs by 25%.
 
 ## 🌐 Connect with Me
 
@@ -33,17 +33,10 @@ Here are some of the projects I've worked on:
 - [Twitter](https://x.com/programmerbro)
 - [Personal Website/Blog](link-to-your-website)
 
-## 📚 Blog Posts
-
-- [Blog Post 1](link-to-blog-post-1): Brief description of blog post 1
-- [Blog Post 2](link-to-blog-post-2): Brief description of blog post 2
-- [Blog Post 3](link-to-blog-post-3): Brief description of blog post 3
 
 ## 🏆 Achievements
 
-- Achievement 1: Description of achievement 1
-- Achievement 2: Description of achievement 2
-- Achievement 3: Description of achievement 3
+- Delta Maker Project Recognized Within Philips Global IT Event
 
 ---
 
