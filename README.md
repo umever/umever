@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - Programming Languages: Python, C++, Rust, PySpark, JS
 - Frameworks & Libraries: ReactJs, NextJs, PySpark, Delt Lake, Tensorflow, Pandas, NumPy
-- Tools & Platforms: Azure Cloud Platform, Data Bricks, Vercel, Firebase, Cloudflare
+- Tools & Platforms: Azure Cloud Platform, Data Bricks, HVR, Vercel, Firebase, Cloudflare
 
 ## 📈 GitHub Stats
 
@@ -31,7 +31,6 @@ Here are some of the projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/umesh-verma-3a371aa7/)
 - [Twitter](https://x.com/programmerbro)
-- [Personal Website/Blog](link-to-your-website)
 
 
 ## 🏆 Achievements
