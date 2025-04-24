@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 💻 Technologies & Tools
 
 - Programming Languages: Python, C++, Rust, PySpark, JS
-- Frameworks & Libraries: ReactJs, NextJs, PySpark, Delt Lake, Tensorflow, Pandas, NumPy
+- Frameworks & Libraries: ReactJs, NextJs, PySpark, Delta Lake, Tensorflow, Pandas, NumPy
 - Tools & Platforms: Azure Cloud Platform, Data Bricks, HVR, Vercel, Firebase, Cloudflare
 
 ## 📈 GitHub Stats
