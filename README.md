@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 
 - 🏫 Current role: SDE @Philips
-- 🌱 Currently learning: React Js, Rust, Kubernetes, System Design
+- 🌱 Currently learning: React Js,Python, Rust, Kubernetes, System Design
 - 💼 Seeking opportunities: Collaboration on Intresting Projects
 - 💬 Ask me about: Programming or my Projects
 
